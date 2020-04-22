@@ -1,3 +1,5 @@
+![](https://cto.ai/static/oss-banner.png)
+
 # @cto-ai/npx
 
 Securely run npx from within a containerize workflow.
